@@ -1,0 +1,2 @@
+Atividade com Gatilhos: implementar uma trigger que, ao ocorrer qualquer
+atualização dos índices utilizados no computo de IDX, recalcular e atualizar o valor de IDX.
