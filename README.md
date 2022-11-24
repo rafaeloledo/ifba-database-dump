@@ -1,1 +1,1 @@
-# Database course files in IFBA
+# Database course files of IFBA
